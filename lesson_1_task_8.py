@@ -1,0 +1,12 @@
+num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0] #88005553535
+print (num [7])
+print (num [7])
+print (num [-1])
+print (num [-1])
+print (num [4])
+print (num [4])
+print (num [4])
+print (num [2])
+print (num [4])
+print (num [2])
+print (num [4])
