@@ -1,13 +1,31 @@
-a = (1) #Вывести в консоль 1
-b = (2) #Вывести в консоль 2
-c = (3) #Вывести в консоль 3
-d = (4) #Вывести в консоль 4
-e = (5) #Вывести в консоль 5
-f = (6) #Вывести в консоль 6
-g = (7) #Вывести в консоль 7
-h = (8) #Вывести в консоль 8
-i = (9) #Вывести в консоль 9
-j = (0) #Вывести в консоль 0
+def print_one():
+    print(1)
 
+def print_two():
+    print(2)
 
-print (h,h,j,j,e,e,e,c,e,c,e)
+def print_three():
+    print(3)
+
+def print_four():
+    print(4)
+
+def print_five():
+    print(5)
+
+def print_six():
+    print(6)
+
+def print_seven():
+    print(7)
+
+def print_eight():
+    print(8)
+
+def print_nine():
+    print(9)
+
+def print_zero():             
+    print(0)
+
+print(8,8,0,0,5,5,5,3,5,3,5) #88005553535
